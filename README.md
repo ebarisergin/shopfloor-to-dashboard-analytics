@@ -39,7 +39,7 @@ An interactive, **2-page deep-dive business intelligence report** was developed 
 <img width="1338" height="731" alt="Image" src="https://github.com/user-attachments/assets/8f7b12bb-a5cd-4f38-a18d-fcec5b053f07" />
 
 #### Power BI - Quality & Defect Analysis
-![Quality Analysis](./screenshots/powerbi_quality.png)
+<img width="1332" height="735" alt="Image" src="https://github.com/user-attachments/assets/26b0139c-c8ff-420f-b92e-fd0127afabcc" />
 
 #### Excel - Operational Reporting
 ![Excel Dashboard](./screenshots/excel_dashboard.png)
