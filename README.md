@@ -36,13 +36,13 @@ An interactive, **2-page deep-dive business intelligence report** was developed 
 ### Dashboard Previews
 
 #### Power BI - Executive Overview
-![Executive Dashboard](screenshots/powerbi_executive.png)
+![Executive Dashboard](./screenshots/powerbi_executive.png)
 
 #### Power BI - Quality & Defect Analysis
-![Quality Analysis](screenshots/powerbi_quality.png)
+![Quality Analysis](./screenshots/powerbi_quality.png)
 
 #### Excel - Operational Reporting
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](./screenshots/excel_dashboard.png)
 
 ---
 
