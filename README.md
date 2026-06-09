@@ -42,7 +42,7 @@ An interactive, **2-page deep-dive business intelligence report** was developed 
 <img width="1332" height="735" alt="Image" src="https://github.com/user-attachments/assets/26b0139c-c8ff-420f-b92e-fd0127afabcc" />
 
 #### Excel - Operational Reporting
-![Excel Dashboard](./screenshots/excel_dashboard.png)
+<img width="801" height="680" alt="Image" src="https://github.com/user-attachments/assets/0175d901-f822-42bc-a092-de7060f4aea4" />
 
 ---
 
